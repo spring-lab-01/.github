@@ -4,6 +4,7 @@
 - All applications here are based on spring boot framework.
 
   Applications:
+  - [reimagined eureka](https://github.com/spring-lab-01/reimagined-eureka)
   - [userbook](https://github.com/spring-lab-01/userbook)
   - [spring learning references](https://github.com/spring-lab-01/references)
   - [feign client demo](https://github.com/spring-lab-01/feign-demo)
