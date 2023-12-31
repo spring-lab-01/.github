@@ -4,8 +4,8 @@
 - All applications here are based on spring boot framework.
 
   Applications:
-  - [reimagined eureka](https://github.com/spring-lab-01/reimagined-eureka)
   - [userbook](https://github.com/spring-lab-01/userbook)
+  - [goal tracker](https://github.com/spring-lab-01/goal-tracker)
   - [spring learning references](https://github.com/spring-lab-01/references)
   - [feign client demo](https://github.com/spring-lab-01/feign-demo)
   - [currency-converter](https://github.com/spring-lab-01/currency-converter)
