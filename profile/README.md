@@ -20,5 +20,5 @@
   - [spring learning references](https://github.com/spring-lab-01/references)
        - [Feign Client Sample Code](https://github.com/spring-lab-01/references/tree/main/feign-demo)
        - [Json Column in postgres DB with spring](https://github.com/spring-lab-01/references/tree/main/postgres-jsonb)
-       - [currency-converter]([https://github.com/spring-lab-01/currency-converter](https://github.com/spring-lab-01/references/tree/main/currency-converter))
+       - [currency-converter](https://github.com/spring-lab-01/references/tree/main/currency-converter)
   
